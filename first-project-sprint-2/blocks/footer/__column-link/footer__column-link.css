@@ -1,0 +1,24 @@
+.footer__column-link {
+  display: flex;
+  align-items: center;
+}
+
+  .footer__column-link:link {
+  text-decoration: none;
+  color: white;
+}
+
+  .footer__column-link:visited {
+    text-decoration: none;
+    color: white;
+  }
+
+  .footer__column-link:hover {
+    text-decoration: none;
+    color: #2f80ed;
+  }
+
+  .footer__column-link:active {
+    text-decoration: none;
+    color: white;
+  }
