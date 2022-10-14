@@ -1,8 +1,5 @@
 .header__subtitle {
-  display: flex;
   margin: 0;
-  align-content: center;
-  flex-wrap: wrap;
   position: absolute;
   bottom: 30px;
   left: 64px;

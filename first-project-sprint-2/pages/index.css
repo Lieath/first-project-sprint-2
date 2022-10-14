@@ -49,7 +49,7 @@
 @import url(../blocks/khan/__title/khan__title.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/section-title/_theme_dark/section-title_theme_dark.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
@@ -83,4 +83,14 @@
   font-family: 'Inter', Arial, sans-serif;
   color: #000000;
   font-weight: normal;
+}
+
+a {
+  color: #2f80ed;
+  text-decoration-line: none;
+}
+
+a:hover {
+  opacity: 0.55;
+  transition: .1s linear;
 }
